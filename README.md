@@ -20,3 +20,7 @@ Boilerplate with
 * `$ gulp test:auto` to run your unit tests with Karma in watch mode
 * `$ gulp protractor` to launch your e2e tests with Protractor
 * `$ gulp protractor:dist` to launch your e2e tests with Protractor on the dist files
+
+<br><br>
+--
+[Boilerplate created with yeoman](https://github.com/swiip/generator-gulp-angular)
